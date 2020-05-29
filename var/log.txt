@@ -1,0 +1,10 @@
+12.May.2020 15:35:31 DB::connect Ошибка подключения к базе данных. HOST=localhost, USER=zhenya, PASS=ssh-22Want!+Zhenya, DB=localhost
+12.May.2020 15:36:43 DB::connect Ошибка подключения к базе данных. HOST=localhost, USER=zhenya, PASS=ssh-22Want!+Zhenya, DB=localhost
+12.May.2020 15:43:04 Запращиваемые данные не существуют. Запрос: DB::setData INSERT INTO work(date, day_of_week, time_work_start) VLUES("2020-05-12 15:43:04", "Tuesday", "15:43")  Параметры:2020-05-12 15:43:04, Tuesday, 15:43, 
+12.May.2020 15:44:15 Запращиваемые данные не существуют. Запрос: DB::setData INSERT INTO work(all_time_work) VLUES(6)  Параметры:6, 
+12.May.2020 15:44:42 Запращиваемые данные не существуют. Запрос: DB::setData INSERT INTO work(time_work_end, all_time_work) VLUES("15:44", "0:0")  Параметры:15:44, 0:0, 
+12.May.2020 15:45:28 Запращиваемые данные не существуют. Запрос: DB::setData INSERT INTO work(date, day_of_week, time_work_start) VLUES("2020-05-12 15:45:28", "Tuesday", "15:45")  Параметры:2020-05-12 15:45:28, Tuesday, 15:45, 
+12.May.2020 15:45:55 Запращиваемые данные не существуют. Запрос: DB::setData INSERT INTO work(all_time_work) VLUES(6)  Параметры:6, 
+12.May.2020 15:46:14 Запращиваемые данные не существуют. Запрос: DB::setData INSERT INTO work(time_work_end, all_time_work) VLUES("15:46", "0:0")  Параметры:15:46, 0:0, 
+12.May.2020 13:04:39 Запращиваемые данные не существуют. Запрос: DB::setData UPDATE work SET time_work_end="13:04", all_time_work="0:1" WHERE id=  Параметры:13:04, 0:1, Array, 
+12.May.2020 13:06:21 Запращиваемые данные не существуют. Запрос: DB::setData  Параметры:13:06, 0:1, 10,
